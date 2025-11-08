@@ -2,3 +2,5 @@ data/
 data/*.csv
 data/*.xlsx
 data/*.json
+*.csv
+*.xlsx
