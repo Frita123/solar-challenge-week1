@@ -13,5 +13,4 @@ python -m venv .venv
 # Activate it
 # On Windows:
 .venv\Scripts\activate
-# On macOS/Linux:
-source .venv/bin/activate
+we have 3 different branchs and 3 notebook files for each country
