@@ -1,6 +1,7 @@
 # solar-challenge-week1
+# EDA: Benin Solar Dataset
 
-##  How to Reproduce the Environment
+This repository contains the **Exploratory Data Analysis (EDA)** notebook for the **Benin solar dataset**, part of the Solar Challenge project. The purpose of eda-benin branch is to analyze, visualize, and understand key patterns, distributions, and relationships in the dataset before modeling. 
 
 Follow these steps to set up the same environment used in this project:
 
