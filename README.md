@@ -13,5 +13,5 @@ python -m venv .venv
 # Activate it
 # On Windows:
 .venv\Scripts\activate
-# On macOS/Linux:
-source .venv/bin/activate
+### EDA: Benin,sierraleon,togo Solar Dataset
+This repository contains the Exploratory Data Analysis (EDA) notebook for the 3 datasets, part of the Solar Challenge project. The purpose of eda-benin,eda-togo,eda-sierraleon branch is to analyze, visualize, and understand key patterns, distributions, and relationships in the dataset before modeling.
